@@ -1,0 +1,21 @@
+{
+  "name": "ELFA DIGITAL",
+  "slogan": "Digital Will Live on Forever",
+  "monogram": "ED",
+  "status": "Online",
+  "links": [
+    { "title": "Website", "url": "https://elfadigital.web.id" },
+    { "title": "Store", "url": "https://elfadigital.com" }
+  ],
+  "socials": {
+    "instagram": "elfa_digital",
+    "threads": "elfa_digital",
+    "tiktok": "elfa_dgtl"
+  },
+  "contacts": {
+    "whatsapp": "6285183159530",
+    "telegram": "elfadigitaladmin",
+    "email": "elfadigital@gmail.com"
+  },
+  "footer": "© 2026 ELFA DIGITAL. All rights reserved."
+}
